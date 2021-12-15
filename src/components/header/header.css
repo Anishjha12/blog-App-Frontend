@@ -10,13 +10,13 @@
     color: #444;
 }
 
-.headerTitleSm {
+.headerTitleSmall {
     position: absolute;
     top: 18%;
     font-size: 20px;
 }
 
-.headerTitleLg {
+.headerTitleLarge {
     position: absolute;
     top: 20%;
     font-size: 100px;

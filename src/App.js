@@ -11,7 +11,7 @@ import Settings from "./Pages/settings/Settings";
 import Single from "./Pages/single/Single"; 
 
 function App() {
-  const user = false;
+  const user = true;
   return (
     <Router>
       <TopBar />
